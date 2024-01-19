@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Davlatali",
+      "isComplete": true
+    },
+    {
+      "id": 2,
+      "name": "Ahamd",
+      "isComplete": false
+    },
+    {
+      "id": 3,
+      "name": "Abdurahmon",
+      "isComplete": true
+    },
+    {
+      "id": 4,
+      "name": "Bilol",
+      "isComplete": false
+    },
+    {
+      "id": 5,
+      "name": "Mudassir",
+      "isComplete": true
+    },
+    {
+      "id": 6,
+      "name": "Umarcha",
+      "isComplete": false
+    }
+  ]
+}
